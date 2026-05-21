@@ -103,18 +103,6 @@ class RashidShafique:
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-| 🏆 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| [**Sales Data Analysis System**](https://github.com/rashidkhan4067/Sales-Data-Analysis-System) | Enterprise-grade Big Data pipeline with interactive ML-powered dashboard, automated AI insights, and profit prediction engine | `PySpark` `Streamlit` `scikit-learn` `Plotly` `Python` |
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
