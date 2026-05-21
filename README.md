@@ -1,27 +1,94 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Rashid%20Shafique&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Python%20%26%20React&descAlignY=55&descAlign=50" alt="Header" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Muhammad Rashid Shafique</h1>
-<h3 align="center">A passionate frontend backend and python developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidkhan4067&label=Profile%20views&color=0e75b6&style=flat" alt="rashidkhan4067" /> </p>
+<div align="center">
+  <a href="https://github.com/rashidkhan4067">
+    <img src="https://komarev.com/ghpvc/?username=rashidkhan4067&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **Python**
+<br />
 
-- 🌱 I’m currently learning **React Native**
+## 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **React Native**
+I am a dedicated software developer specializing in building robust backends, scalable data pipelines, and engaging frontend experiences. Currently pursuing a BS in Computer Science, I bridge the gap between complex logic and user-centric design.
 
-- 💬 Ask me about **React,Python,Html5 Css3 and js**
+- 🔭 **Currently working on:** Advanced Python automation, Big Data Analytics pipelines, and backend architectures.
+- 🌱 **Currently learning:** React Native for cross-platform mobile development & advanced Cloud deployments.
+- 👯 **Looking to collaborate on:** Open-source Python tools, Data Engineering projects, and React-based web applications.
+- 💬 **Ask me about:** `Python`, `React`, `Data Engineering`, `REST APIs`, and `System Architecture`.
+- 📫 **How to reach me:** [rashidkhang4067@gmail.com](mailto:rashidkhang4067@gmail.com)
+- ⚡ **Fun fact:** I love optimizing complex algorithms just as much as designing pixel-perfect UIs.
 
-- 📫 How to reach me **rashidkhang4067@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 💻 Backend & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan4067&show_icons=true&locale=en&layout=compact" alt="rashidkhan4067" /></p>
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidkhan4067&show_icons=true&locale=en" alt="rashidkhan4067" /></p>
+### 🔧 Tools & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan4067&" alt="rashidkhan4067" /></p>
+<br />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashidkhan4067&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan4067&show_icons=true&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan4067&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<br />
+
+## 📫 Connect with Me
+<div align="center">
+  <a href="mailto:rashidkhang4067@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Update the link below with your actual LinkedIn URL -->
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
