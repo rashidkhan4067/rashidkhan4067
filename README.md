@@ -63,18 +63,21 @@ I am a dedicated software developer specializing in building robust backends, sc
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashidkhan4067&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan4067&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashidkhan4067&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan4067&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan4067&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan4067&theme=dark" alt="GitHub Streak" />
+</div>
 
 <br />
 
